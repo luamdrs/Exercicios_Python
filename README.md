@@ -1,2 +1,2 @@
-# Hello-World
- Primeiro repositório de Python
+# Hello, World!
+ Primeiro repositório do Curso de Git e GitHub.
