@@ -1,2 +1,3 @@
-# Hello, World!
- Primeiro repositório do Curso de Git e GitHub.
+# Repositório de Python
+
+Primeiro repositório do Curso em Vídeo ministrado pelo Professor Gustavo Guanabara.
