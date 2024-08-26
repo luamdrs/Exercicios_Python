@@ -61,5 +61,7 @@
 
 [_Exercício 30_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios%20-%20Nivel%201/Exercicio_30.py)
 
+[_Exercício 31_]()
+
 
 Curso ministrado pelo Professor **Gustavo Guanabara**
