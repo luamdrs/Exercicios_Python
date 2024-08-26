@@ -63,7 +63,7 @@
 
 [_Exercício 31_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios%20-%20Nivel%201/Exercicio_31.py)
 
-[_Exercício 32_]()
+[_Exercício 32_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios%20-%20Nivel%201/Exercicio_32.py)
 
 [_Exercício 33_]()
 
