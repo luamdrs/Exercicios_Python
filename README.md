@@ -81,26 +81,26 @@
 
 [_Exercício 39_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios%20-%20Nivel%201/Exercicio_39.py) - Alistamento Militar
 
-[_Exercício 40_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios%20-%20Nivel%201/Exercicio_40.py) - Calculadora de Média Escolar
+[_Exercício 40_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_40.py) - Calculadora de Média Escolar
 
-[_Exercício 41_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios%20-%20Nivel%201/Exercicio_41.py) - Classificando Atletas
+[_Exercício 41_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_41.py) - Classificando Atletas
 
-[_Exercício 42_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios%20-%20Nivel%201/Exercicio_42.py) - Analisando Triângulos 2.0
+[_Exercício 42_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_42.py) - Analisando Triângulos 2.0
 
-[_Exercício 43_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios%20-%20Nivel%201/Exercicio_43.py) - Índice de Massa Corporal
+[_Exercício 43_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_43.py) - Índice de Massa Corporal
 
-[_Exercício 44_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios%20-%20Nivel%201/Exercicio_44.py) - Gerenciador de Pagamentos
+[_Exercício 44_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_44.py) - Gerenciador de Pagamentos
 
-[_Exercício 45_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios%20-%20Nivel%201/Exercicio_45.py) - Jogo JOKENPO
+[_Exercício 45_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_45.py) - Jogo JOKENPO
 
-[_Exercício 46_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios%20-%20Nivel%201/Exercicio_46.py) - Contagem Regressiva
+[_Exercício 46_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_46.py) - Contagem Regressiva
 
-[_Exercício 47_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios%20-%20Nivel%201/Exercicio_47.py) - Contagem de Números Pares
+[_Exercício 47_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_47.py) - Contagem de Números Pares
 
-[_Exercício 48_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios%20-%20Nivel%201/Exercicio_48.py) - Soma de Ímpares/Múltiplos de três
+[_Exercício 48_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_48.py) - Soma de Ímpares/Múltiplos de três
 
-[_Exercício 49_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios%20-%20Nivel%201/Exercicio_49.py) - Tabuada utilizando o *for*
+[_Exercício 49_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_49.py) - Tabuada utilizando o *for*
 
-[_Exercício 50_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios%20-%20Nivel%201/Exercicio_50.py) - Soma de números pares
+[_Exercício 50_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_50.py) - Soma de números pares
 
 Curso ministrado pelo Professor **Gustavo Guanabara**
