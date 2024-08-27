@@ -65,21 +65,21 @@
 
 [_Exercício 32_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios%20-%20Nivel%201/Exercicio_32.py)
 
-[_Exercício 33_]()
+[_Exercício 33_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios%20-%20Nivel%201/Exercicio_33.py)
 
-[_Exercício 34_]()
+[_Exercício 34_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios%20-%20Nivel%201/Exercicio_34.py)
 
-[_Exercício 35_]()
+[_Exercício 35_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios%20-%20Nivel%201/Exercicio_35.py)
 
-[_Exercício 36_]()
+[_Exercício 36_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios%20-%20Nivel%201/Exercicio_36.py)
 
-[_Exercício 37_]()
+[_Exercício 37_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios%20-%20Nivel%201/Exercicio_37.py)
 
-[_Exercício 38_]()
+[_Exercício 38_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios%20-%20Nivel%201/Exercicio_38.py)
 
-[_Exercício 39_]()
+[_Exercício 39_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios%20-%20Nivel%201/Exercicio_39.py)
 
-[_Exercício 40_]()
+[_Exercício 40_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios%20-%20Nivel%201/Exercicio_40.py)
 
 
 Curso ministrado pelo Professor **Gustavo Guanabara**
