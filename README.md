@@ -1,5 +1,7 @@
-# Repositório de Python
+# <img src="python.png" alt="Python" width="30"/> Repositório de Python 
+
 ### Exercícios realizados no **Curso em Vídeo**:
+
 
 [_Exercício 1_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios%20-%20Nivel%201/Exercicio_01.py) - Hello, world!
 
