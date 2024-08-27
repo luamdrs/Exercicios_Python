@@ -83,5 +83,14 @@
 
 [_Exercício 40_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios%20-%20Nivel%201/Exercicio_40.py) - Calculadora de Média Escolar
 
+[_Exercício 41_]() - Classificando Atletas
+
+[_Exercício 42_]() - Analisando Triângulos 2.0
+
+[_Exercício 43_]() - Índice de Massa Corporal
+
+[_Exercício 44_]() - Gerenciador de Pagamentos
+
+[_Exercício 45_]() - Jogo JOKENPO
 
 Curso ministrado pelo Professor **Gustavo Guanabara**
