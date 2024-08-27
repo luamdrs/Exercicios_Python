@@ -93,4 +93,14 @@
 
 [_Exercício 45_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios%20-%20Nivel%201/Exercicio_45.py) - Jogo JOKENPO
 
+[_Exercício 46_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios%20-%20Nivel%201/Exercicio_46.py) - Contagem Regressiva
+
+[_Exercício 47_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios%20-%20Nivel%201/Exercicio_47.py) - Contagem de Números Pares
+
+[_Exercício 48_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios%20-%20Nivel%201/Exercicio_48.py) - Soma de Ímpares/Múltiplos de três
+
+[_Exercício 49_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios%20-%20Nivel%201/Exercicio_49.py) - Tabuada utilizando o *for*
+
+[_Exercício 50_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios%20-%20Nivel%201/Exercicio_50.py) - Soma de números pares
+
 Curso ministrado pelo Professor **Gustavo Guanabara**
