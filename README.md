@@ -103,5 +103,8 @@
 
 [_Exercício 50_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_50.py) - Soma de números pares
 
+[_Exercício 51_]() - Progressão Aritmética
+
+
 
 Curso ministrado pelo Professor **Gustavo Guanabara**
