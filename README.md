@@ -107,5 +107,6 @@
 
 [_Exercício 52_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_52.py) - Contador de números primos
 
+[_Exercício 53_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_53.py) - Palíndromo ou não
 
 Curso ministrado pelo Professor **Gustavo Guanabara**
