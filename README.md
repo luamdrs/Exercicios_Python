@@ -109,4 +109,6 @@
 
 [_Exercício 53_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_53.py) - Palíndromo ou não
 
+[_Exercício 54_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_54.py) - Calculadora maior e menor de idade
+
 Curso ministrado pelo Professor **Gustavo Guanabara**
