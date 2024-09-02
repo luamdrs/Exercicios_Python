@@ -111,4 +111,6 @@
 
 [_Exercício 54_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_54.py) - Calculadora maior e menor de idade
 
+[_Exercício 55_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_55.py) - Identificando o maior e o menor valor
+
 Curso ministrado pelo Professor **Gustavo Guanabara**
