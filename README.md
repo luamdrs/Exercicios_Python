@@ -119,4 +119,6 @@
 
 [_Exercício 58_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_58.py) - Jogo de Adivinhação de Números
 
+[_Exercício 59_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_59.py) - Menu de Opções
+
 Curso ministrado pelo Professor **Gustavo Guanabara**
