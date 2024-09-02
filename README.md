@@ -105,6 +105,7 @@
 
 [_Exercício 51_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_51.py) - Progressão Aritmética
 
+[_Exercício 52_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_52.py) - Contador de números primos
 
 
 Curso ministrado pelo Professor **Gustavo Guanabara**
