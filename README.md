@@ -113,4 +113,6 @@
 
 [_Exercício 55_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_55.py) - Identificando o maior e o menor valor
 
+[_Exercício 56_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_56.py) - Análise de Dados
+
 Curso ministrado pelo Professor **Gustavo Guanabara**
