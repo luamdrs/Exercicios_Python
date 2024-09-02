@@ -117,5 +117,6 @@
 
 [_Exercício 57_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_57.py) - Validação de Dados
 
+[_Exercício 58_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_58.py) - Jogo de Adivinhação de Números
 
 Curso ministrado pelo Professor **Gustavo Guanabara**
