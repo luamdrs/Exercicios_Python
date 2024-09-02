@@ -121,4 +121,7 @@
 
 [_Exercício 59_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_59.py) - Menu de Opções
 
+[_Exercício 60_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_60.py) - Calculando Fatorial com while
+
+
 Curso ministrado pelo Professor **Gustavo Guanabara**
