@@ -115,4 +115,7 @@
 
 [_Exercício 56_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_56.py) - Análise de Dados
 
+[_Exercício 57_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_57.py) - Validação de Dados
+
+
 Curso ministrado pelo Professor **Gustavo Guanabara**
