@@ -133,5 +133,8 @@
 
 [_Exercício 65_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_65.py) - Contador de Números: Maior, Menor e Média utilizando o while
 
+[_Exercício 66_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_66.py) - Vários números com flags
+
+
 
 Curso ministrado pelo Professor **Gustavo Guanabara**
