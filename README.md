@@ -127,4 +127,7 @@
 
 [_Exercício 62_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_62.py) - Gerador de PA | P. 2
 
+[_Exercício 63_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_63.py) - Sequência de Fibonacci
+
+
 Curso ministrado pelo Professor **Gustavo Guanabara**
