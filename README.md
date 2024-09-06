@@ -137,5 +137,6 @@
 
 [_Exercício 67_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_67.py) - Tabuada com qualquer número, exceto negativos
 
+[_Exercício 68_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_68.py) - Jogo do Par ou Ímpar
 
 Curso ministrado pelo Professor **Gustavo Guanabara**
