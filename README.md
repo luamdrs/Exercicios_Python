@@ -125,5 +125,6 @@
 
 [_Exercício 61_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_61.py) - Gerador de PA
 
+[_Exercício 62_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_62.py) - Gerador de PA | P. 2
 
 Curso ministrado pelo Professor **Gustavo Guanabara**
