@@ -131,7 +131,7 @@
 
 [_Exercício 64_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_64.py) - Tratando vários valores
 
-
+[_Exercício 65_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_65.py) - Contador de Números: Maior, Menor e Média utilizando o while
 
 
 Curso ministrado pelo Professor **Gustavo Guanabara**
