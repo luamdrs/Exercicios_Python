@@ -141,4 +141,7 @@
 
 [_Exercício 69_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_69.py) - Análise de Dados do Grupo
 
+[_Exercício 70_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_70.py) - Estatísticas em Produtos
+
+
 Curso ministrado pelo Professor **Gustavo Guanabara**
