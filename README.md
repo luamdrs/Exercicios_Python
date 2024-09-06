@@ -135,6 +135,7 @@
 
 [_Exercício 66_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_66.py) - Vários números com flags
 
+[_Exercício 67_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_67.py) - Tabuada com qualquer número, exceto negativos
 
 
 Curso ministrado pelo Professor **Gustavo Guanabara**
