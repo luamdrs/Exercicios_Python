@@ -123,5 +123,7 @@
 
 [_Exercício 60_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_60.py) - Calculando Fatorial com while
 
+[_Exercício 61_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_61.py) - Gerador de PA
+
 
 Curso ministrado pelo Professor **Gustavo Guanabara**
