@@ -139,4 +139,6 @@
 
 [_Exercício 68_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_68.py) - Jogo do Par ou Ímpar
 
+[_Exercício 69_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_69.py) - Análise de Dados do Grupo
+
 Curso ministrado pelo Professor **Gustavo Guanabara**
