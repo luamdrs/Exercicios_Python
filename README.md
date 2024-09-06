@@ -129,5 +129,9 @@
 
 [_Exercício 63_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_63.py) - Sequência de Fibonacci
 
+[_Exercício 64_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_64.py) - Tratando vários valores
+
+
+
 
 Curso ministrado pelo Professor **Gustavo Guanabara**
