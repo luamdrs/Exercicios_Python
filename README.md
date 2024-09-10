@@ -149,7 +149,7 @@
 
 [_Exercício 73_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_73.py) - Tuplas com Países/Posições
 
-[_Exercício 74_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_74.py) - 
+[_Exercício 74_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_74.py) - Sorteio de Valores aleatórios (número maior e menor)
 
 [_Exercício 75_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_75.py) - 
 
