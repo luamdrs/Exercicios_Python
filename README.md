@@ -169,7 +169,7 @@
 
 [_Exercício 83_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_83.py) - Verificador de expressão
 
-[_Exercício 84_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_84.py) -
+[_Exercício 84_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_84.py) - Lista composta e análise de dados
 
 [_Exercício 85_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_85.py) -
 
