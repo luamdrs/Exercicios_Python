@@ -153,7 +153,7 @@
 
 [_Exercício 75_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_75.py) - Análise de dados em uma Tupla
 
-[_Exercício 76_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_76.py) -
+[_Exercício 76_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_76.py) - Lista de Preços utilizando uma tupla
 
 [_Exercício 77_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_77.py) - 
 
