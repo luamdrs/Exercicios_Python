@@ -143,5 +143,7 @@
 
 [_Exercício 70_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_70.py) - Estatísticas em Produtos
 
+[_Exercício 71_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_71.py) - Simulador de Caixa Eletrônico
+
 
 Curso ministrado pelo Professor **Gustavo Guanabara**
