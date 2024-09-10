@@ -147,5 +147,60 @@
 
 [_Exercício 72_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_72.py) - Números em Extenso
 
+[_Exercício 73_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_73.py) - Tuplas com Países/Posições
+
+[_Exercício 74_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_74.py) - 
+
+[_Exercício 75_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_75.py) - 
+
+[_Exercício 76_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_76.py) -
+
+[_Exercício 77_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_77.py) - 
+
+[_Exercício 78_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_78.py) - 
+
+[_Exercício 79_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_79.py) - 
+
+[_Exercício 80_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_80.py) - 
+
+[_Exercício 81_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_81.py) - 
+
+[_Exercício 82_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_82.py) - 
+
+[_Exercício 83_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_83.py) - 
+
+[_Exercício 84_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_84.py) -
+
+[_Exercício 85_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_85.py) -
+
+[_Exercício 86_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_86.py) - 
+
+[_Exercício 87_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_87.py) - 
+
+[_Exercício 88_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_88.py) - 
+
+[_Exercício 89_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_89.py) - 
+
+[_Exercício 90_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_90.py) -
+
+[_Exercício 91_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_91.py) -
+
+[_Exercício 92_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_92.py) -
+
+[_Exercício 93_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_93.py) -
+
+[_Exercício 94_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_94.py) -
+
+[_Exercício 95_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_95.py) -
+
+[_Exercício 96_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_96.py) -
+
+[_Exercício 97_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_97.py) -
+
+[_Exercício 98_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_98.py) -
+
+[_Exercício 99_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_99.py) -
+
+[_Exercício 100_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_100.py) -
 
 Curso ministrado pelo Professor **Gustavo Guanabara**
