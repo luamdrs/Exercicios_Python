@@ -175,7 +175,7 @@
 
 [_Exercício 86_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_86.py) - Matriz em Python
 
-[_Exercício 87_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_87.py) - 
+[_Exercício 87_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_87.py) - Matriz 2.0
 
 [_Exercício 88_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_88.py) - 
 
