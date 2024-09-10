@@ -167,7 +167,7 @@
 
 [_Exercício 82_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_82.py) - Dividindo números em 3 listas: valores, pares e impares
 
-[_Exercício 83_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_83.py) - 
+[_Exercício 83_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_83.py) - Verificador de expressão
 
 [_Exercício 84_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_84.py) -
 
