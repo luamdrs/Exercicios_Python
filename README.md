@@ -157,7 +157,7 @@
 
 [_Exercício 77_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_77.py) - Encontrando vogais dentro de uma tupla
 
-[_Exercício 78_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_78.py) - 
+[_Exercício 78_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_78.py) - Identificando maior e menor número em lista
 
 [_Exercício 79_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_79.py) - 
 
