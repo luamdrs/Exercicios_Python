@@ -155,7 +155,7 @@
 
 [_Exercício 76_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_76.py) - Lista de Preços utilizando uma tupla
 
-[_Exercício 77_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_77.py) - 
+[_Exercício 77_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_77.py) - Encontrando vogais dentro de uma tupla
 
 [_Exercício 78_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_78.py) - 
 
