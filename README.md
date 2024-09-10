@@ -165,7 +165,7 @@
 
 [_Exercício 81_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_81.py) - Valores em ordem decrescente em uma lista
 
-[_Exercício 82_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_82.py) - 
+[_Exercício 82_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_82.py) - Dividindo números em 3 listas: valores, pares e impares
 
 [_Exercício 83_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_83.py) - 
 
