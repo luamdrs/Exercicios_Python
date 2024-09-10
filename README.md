@@ -173,7 +173,7 @@
 
 [_Exercício 85_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_85.py) - Listas dentro de uma única lista com números pares e impares
 
-[_Exercício 86_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_86.py) - 
+[_Exercício 86_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_86.py) - Matriz em Python
 
 [_Exercício 87_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_87.py) - 
 
