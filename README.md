@@ -151,7 +151,7 @@
 
 [_Exercício 74_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_74.py) - Sorteio de Valores aleatórios (número maior e menor)
 
-[_Exercício 75_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_75.py) - 
+[_Exercício 75_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_75.py) - Análise de dados em uma Tupla
 
 [_Exercício 76_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_76.py) -
 
