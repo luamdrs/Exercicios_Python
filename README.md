@@ -161,7 +161,7 @@
 
 [_Exercício 79_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_79.py) - Valores em ordem crescente em uma lista
 
-[_Exercício 80_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_80.py) - 
+[_Exercício 80_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_80.py) - Lista ordenada sem repetições
 
 [_Exercício 81_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_81.py) - 
 
