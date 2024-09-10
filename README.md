@@ -177,7 +177,7 @@
 
 [_Exercício 87_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_87.py) - Matriz 2.0
 
-[_Exercício 88_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_88.py) - 
+[_Exercício 88_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_88.py) - Sorteio ~ Bilhete da Sorte
 
 [_Exercício 89_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_89.py) - 
 
