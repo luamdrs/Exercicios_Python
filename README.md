@@ -179,7 +179,7 @@
 
 [_Exercício 88_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_88.py) - Sorteio ~ Bilhete da Sorte
 
-[_Exercício 89_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_89.py) - 
+[_Exercício 89_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_89.py) - Boletim com listas compostas
 
 [_Exercício 90_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_90.py) -
 
