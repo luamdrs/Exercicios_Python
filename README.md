@@ -181,7 +181,7 @@
 
 [_Exercício 89_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_89.py) - Boletim com listas compostas
 
-[_Exercício 90_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_90.py) -
+[_Exercício 90_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_90.py) - Dicionário de Python
 
 [_Exercício 91_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_91.py) -
 
