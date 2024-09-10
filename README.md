@@ -159,7 +159,7 @@
 
 [_Exercício 78_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_78.py) - Identificando maior e menor número em lista
 
-[_Exercício 79_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_79.py) - 
+[_Exercício 79_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_79.py) - Valores em ordem crescente em uma lista
 
 [_Exercício 80_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_80.py) - 
 
