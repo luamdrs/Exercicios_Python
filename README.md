@@ -145,5 +145,7 @@
 
 [_Exercício 71_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_71.py) - Simulador de Caixa Eletrônico
 
+[_Exercício 72_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_72.py) - Números em Extenso
+
 
 Curso ministrado pelo Professor **Gustavo Guanabara**
