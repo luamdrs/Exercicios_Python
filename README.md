@@ -217,7 +217,7 @@
 
 [_Exercício 107_](https://github.com/luamdrs/Exercicios_Python/tree/main/Exercicios_Python/Exercicio_107.py) - Exercitando módulos em Python
 
-[_Exercício 108_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercício_108.py) - Formatando moedas em Python
+[_Exercício 108_](https://github.com/luamdrs/Exercicios_Python/tree/main/Exercicios_Python/Exercicio_108.py) - Formatando moedas em Python
 
 [_Exercício 109_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercício_109.py) - Formatando moedas em Python P. 2
 
