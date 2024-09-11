@@ -193,14 +193,14 @@
 
 [_Exercício 95_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_95.py) - Aprimorando os Dicionários
 
-[_Exercício 96_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_96.py) -
+[_Exercício 96_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_96.py) - Função que calcula a área
 
-[_Exercício 97_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_97.py) -
+[_Exercício 97_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_97.py) - Print adaptado ao tamanho da frase
 
-[_Exercício 98_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_98.py) -
+[_Exercício 98_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_98.py) - Função de Contador
 
-[_Exercício 99_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_99.py) -
+[_Exercício 99_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_99.py) - Função que descobre o maior número
 
-[_Exercício 100_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_100.py) -
+[_Exercício 100_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_100.py) - Funções para sortear e somar
 
 Curso ministrado pelo Professor **Gustavo Guanabara**
