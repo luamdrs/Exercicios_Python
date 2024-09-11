@@ -201,6 +201,6 @@
 
 [_Exercício 99_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_99.py) - Função que descobre o maior número
 
-[_Exercício 100_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_100.py) - Funções para sortear e somar
+[_Exercício 100_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercício_100.py) - Funções para sortear e somar
 
 Curso ministrado pelo Professor **Gustavo Guanabara**
