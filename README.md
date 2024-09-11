@@ -207,7 +207,30 @@
 
 [_Exercício 102_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercício_102.py) - Função para Fatorial
 
-
 [_Exercício 103_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercício_103.py) - Ficha do Jogador
+
+[_Exercício 104_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercício_104.py) - Validando entrada de dados em Python
+
+[_Exercício 105_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercício_105.py) - Analisando e gerando dicionários
+
+[_Exercício 106_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercício_106.py) - Interactive helping system in Python
+
+[_Exercício 107_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercício_107.py) - Exercitando módulos em Python
+
+[_Exercício 108_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercício_108.py) - Formatando moedas em Python
+
+[_Exercício 109_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercício_109.py) - Formatando moedas em Python P. 2
+
+[_Exercício 110_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercício_110.py) - Reduzindo ainda mais o programa
+
+[_Exercício 111_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercício_111.py) - Transformando módulos em pacotes
+
+[_Exercício 112_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercício_112.py) - Entrada de dados monetários
+
+[_Exercício 113_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercício_113.py) - Funções aprofundadas em Python
+
+[_Exercício 114_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercício_114.py) - O site está acessível?
+
+[_Exercício 115_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercício_115.py) - Criando um Menu (Cadastro de Pessoas) em Python - Projeto Final
 
 Curso ministrado pelo Professor **Gustavo Guanabara**
