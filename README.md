@@ -185,7 +185,7 @@
 
 [_Exercício 91_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_91.py) - Jogos de Dados com Python
 
-[_Exercício 92_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_92.py) -
+[_Exercício 92_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_92.py) - Cadastro de Trabalhador em Python
 
 [_Exercício 93_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_93.py) -
 
