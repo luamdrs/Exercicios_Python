@@ -221,7 +221,7 @@
 
 [_Exercício 109_](https://github.com/luamdrs/Exercicios_Python/tree/main/Exercicios_Python/Exercicio_109.py) - Formatando moedas em Python P. 2
 
-[_Exercício 110_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercício_110.py) - Reduzindo ainda mais o programa
+[_Exercício 110_](https://github.com/luamdrs/Exercicios_Python/tree/main/Exercicios_Python/Exercicio_110.py) - Reduzindo ainda mais o programa
 
 [_Exercício 111_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercício_111.py) - Transformando módulos em pacotes
 
