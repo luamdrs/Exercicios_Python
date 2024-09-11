@@ -187,7 +187,7 @@
 
 [_Exercício 92_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_92.py) - Cadastro de Trabalhador em Python
 
-[_Exercício 93_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_93.py) -
+[_Exercício 93_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_93.py) - Cadastro de Jogador de Futebol
 
 [_Exercício 94_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_94.py) -
 
