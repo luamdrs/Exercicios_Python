@@ -203,4 +203,6 @@
 
 [_Exercício 100_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercício_100.py) - Funções para sortear e somar
 
+[_Exercício 101_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercício_101.py) - Funções para votação
+
 Curso ministrado pelo Professor **Gustavo Guanabara**
