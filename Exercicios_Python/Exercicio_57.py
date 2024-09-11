@@ -1,4 +1,3 @@
-# Validação de Dados
 sexo_fem = 'F'
 sexo_masc = 'M'
 sexo = str(input('Informe o seu sexo [F/M]: ')).strip().upper()

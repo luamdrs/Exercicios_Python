@@ -1,4 +1,3 @@
-# Soma de Ímpares/Múltiplos de três
 soma = 0
 cont = 0
 # Encontrando os números ímpares de 1 a 500

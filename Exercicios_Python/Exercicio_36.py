@@ -1,4 +1,3 @@
-# Aprovando Empréstimo
 valor_casa = float(input('Valor da casa: R$'))
 salario = float(input('Salário do comprador: R$'))
 anos = int(input('Anos de financiamento: '))

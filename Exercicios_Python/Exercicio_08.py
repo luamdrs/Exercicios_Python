@@ -1,4 +1,3 @@
-# Conversor de Medidas
 medida = float(input('Quantos metros você deseja realizar a conversão? '))
 km = medida * 0.001
 decim = medida * 10

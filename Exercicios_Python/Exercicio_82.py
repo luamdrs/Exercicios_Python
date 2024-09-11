@@ -1,4 +1,3 @@
-# Dividindo números em 3 listas: valores, pares e impares.
 valores = []
 pares = []
 impares = []

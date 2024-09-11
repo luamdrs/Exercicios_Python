@@ -1,4 +1,3 @@
-# Soma de números pares
 soma = 0
 cont = 0
 for i in range(1, 7):

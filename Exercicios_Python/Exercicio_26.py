@@ -1,4 +1,3 @@
-# Primeira e última ocorrência de uma string (contando com os espaços)
 frase = str(input('Digite uma frase: ')).strip().upper()
 print(f'A letra A aparece quantas vezes na frase? {frase.count('A')}')
 print(f'A primeira letra A aparece em qual posição? {frase.find('A') + 1}')

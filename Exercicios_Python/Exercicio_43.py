@@ -1,4 +1,3 @@
-# Índice de Massa Corporal
 peso = float(input('Qual é o seu peso? Kg '))
 altura = float(input('Qual é a sua altura? (m) '))
 imc = peso / (altura * altura)

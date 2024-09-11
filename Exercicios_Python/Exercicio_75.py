@@ -1,4 +1,3 @@
-# Análise de dados em uma Tupla
 print('=-' * 20)
 numero = (int(input('Digite o primeiro número: ')),
           int(input('Digite o segundo número: ')),

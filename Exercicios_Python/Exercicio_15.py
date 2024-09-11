@@ -1,4 +1,3 @@
-# Aluguel de carros
 dias = int(input('Dias de aluguel: '))
 km = float(input('Km percorridos: '))
 total = (60 * dias) + (0.15 * km)

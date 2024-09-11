@@ -1,4 +1,3 @@
-# Boletim com listas compostas
 from time import sleep
 
 ficha = list()

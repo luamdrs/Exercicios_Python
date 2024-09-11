@@ -1,4 +1,3 @@
-# Identificando o maior e o menor valor
 maior_peso = 0
 menor_peso = 0
 

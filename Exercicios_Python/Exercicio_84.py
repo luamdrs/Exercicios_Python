@@ -1,4 +1,3 @@
-# Lista composta e análise de dados
 lista1 = list()
 lista_atualizada = list()
 maior = menor = 0

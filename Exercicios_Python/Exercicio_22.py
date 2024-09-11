@@ -1,4 +1,3 @@
-# Analisador de textos
 frase = str(input('Digite uma frase: ')).strip()
 print('Analisando sua frase...')
 print(f'Sua frase com letras maiúsculas fica: {frase.upper()}')

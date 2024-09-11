@@ -1,4 +1,3 @@
-# Sorteio Bilhete da Sorte
 from random import randint
 from time import sleep
 

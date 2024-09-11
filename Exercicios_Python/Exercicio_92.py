@@ -1,4 +1,3 @@
-# Cadastro de Trabalhador em Python
 from datetime import datetime
 
 dados = dict()

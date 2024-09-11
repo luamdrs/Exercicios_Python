@@ -1,4 +1,3 @@
-# Tratando vários valores
 numero = 0
 soma = 0
 cont = 0

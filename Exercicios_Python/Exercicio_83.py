@@ -1,4 +1,3 @@
-# Verificador de expressão
 expressao = str(input('Digite a expressão: '))
 pilha = []
 for simbolo in expressao:      # Para cada simbolo dentro da expressão,

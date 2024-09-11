@@ -1,4 +1,3 @@
-# Jogo de adivinhação de números
 from time import sleep
 from random import choice
 

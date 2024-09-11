@@ -1,4 +1,3 @@
-# Cadastro de Jogador de Futebol
 jogador = dict()
 partidas = list()
 

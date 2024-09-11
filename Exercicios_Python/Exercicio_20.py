@@ -1,4 +1,3 @@
-# Sorteando uma ordem na lista
 from random import shuffle
 a1 = str(input('Primeiro aluno: '))
 a2 = str(input('Segundo aluno: '))

@@ -1,4 +1,3 @@
-# Tabuada utilizando o for
 print('=-' * 20)
 numero = int(input('Digite um número para ver sua tabuada: '))
 print('=-' * 20)

@@ -1,4 +1,3 @@
-# Jogo do par ou ímpar
 from random import randint
 
 v = 0 

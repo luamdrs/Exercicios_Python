@@ -1,4 +1,3 @@
-# SIMULADOR CAIXA ELETRÔNICO
 print('=' * 40)
 print('{:^40}'.format(' BANCO CeV '))
 print('=' * 40)

@@ -1,4 +1,3 @@
-# Unindo dicionários e listas
 grupo = list()
 pessoa = dict()
 soma = media = 0

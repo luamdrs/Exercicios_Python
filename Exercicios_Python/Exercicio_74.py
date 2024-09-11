@@ -1,4 +1,3 @@
-# Sorteio de Valores aleatórios (número maior e menor)
 from random import randint
 
 print('=-' * 25)

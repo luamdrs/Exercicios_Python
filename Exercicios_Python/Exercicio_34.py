@@ -1,4 +1,3 @@
-# Aumento de 10% e 15% no salário do funcionário
 salario = float(input('Digite o salário do funcionário: R$'))
 if salario > 1250:
     novo_salario = (salario * 10 / 100) + salario

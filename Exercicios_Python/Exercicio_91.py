@@ -1,4 +1,3 @@
-# Jogos de Dados com Python
 from random import randint
 from operator import itemgetter
 from time import sleep

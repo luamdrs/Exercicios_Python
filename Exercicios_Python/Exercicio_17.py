@@ -1,4 +1,3 @@
-# Catetos e Hipotenusa
 from math import hypot
 a = float(input('Cateto Oposto: '))
 b = float(input('Cateto Adjacente: '))

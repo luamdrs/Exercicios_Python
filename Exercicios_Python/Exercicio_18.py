@@ -1,4 +1,3 @@
-# Seno, Cosseno e Tangente
 from math import sin, cos, tan, radians
 angulo = float(input('Digite o ângulo: '))
 seno = sin(radians(angulo))

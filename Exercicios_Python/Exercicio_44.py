@@ -1,4 +1,3 @@
-# Gerenciador de Pagamentos
 print('=-=' * 5, 'NOME DA SUA LOJA', '=-=' * 5)
 compras = float(input('Preço das compras: R$'))
 print('''FORMAS DE PAGAMENTO

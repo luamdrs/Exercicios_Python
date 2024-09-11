@@ -1,4 +1,3 @@
-# Gerador de PA
 print('=-=-=-=-= Gerador de PA =-=-=-=-=')
 primeiro_termo = int(input('Primeiro termo: '))
 razao = int(input('Razão da PA: '))

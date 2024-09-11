@@ -1,4 +1,3 @@
-# Tabuada com qualquer número, exceto negativos.
 while True:
     print('*-' * 25)
     numero = int(input('Digite um número para calcularmos sua tabuada: '))

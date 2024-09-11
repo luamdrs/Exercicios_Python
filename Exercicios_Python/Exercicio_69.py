@@ -1,4 +1,3 @@
-# Análise de Dados do Grupo
 print('=-' * 20)
 print('        CADASTRE UMA PESSOA')
 print('=-' * 20)

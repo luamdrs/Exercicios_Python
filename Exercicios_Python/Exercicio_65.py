@@ -1,4 +1,3 @@
-# Contador de Números: Maior, Menor e Média utilizando o while
 usuario = 'S'
 soma = media = cont = maior = menor = 0
 while usuario in 'Ss':

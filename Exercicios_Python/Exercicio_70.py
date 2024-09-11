@@ -1,4 +1,3 @@
-# Estatísticas em Produtos
 total = cont_preco = menor_preco = contador = 0
 mais_barato = ' '
 

@@ -1,4 +1,3 @@
-# Sequência de Fibonacci
 termos = int(input('Quantos termos você quer mostrar? '))
 t1 = 0  # O termo 1 vai iniciar com o número 0
 t2 = 1  # O termo 2 vai iniciar com o número 1

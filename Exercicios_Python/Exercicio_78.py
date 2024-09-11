@@ -1,4 +1,3 @@
-# Identificando maior e menor número em lista
 numeros = list()
 maior = menor = 0
 

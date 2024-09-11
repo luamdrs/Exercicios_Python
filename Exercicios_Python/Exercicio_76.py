@@ -1,4 +1,3 @@
-# Lista de Preços utilizando uma tupla
 lista = ('Lápis', 1.75,
          'Borracha', 2,
          'Caderno', 15.90,

@@ -1,4 +1,3 @@
-# Progressão Aritmética
 print('=-' * 20)
 print('         10 TERMOS DE UMA PA')
 print('=-' * 20)

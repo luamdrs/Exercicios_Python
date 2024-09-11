@@ -1,4 +1,3 @@
-# Classificando Atletas
 from datetime import date
 
 ano_nascimento = int(input('Ano de Nascimento: '))

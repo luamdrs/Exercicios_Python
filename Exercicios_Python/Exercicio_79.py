@@ -1,4 +1,3 @@
-# Valores em ordem crescente em uma lista
 valores = list()
 print('=-' * 20)
 

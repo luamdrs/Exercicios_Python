@@ -1,4 +1,3 @@
-# Análise de Dados
 soma_idade = 0
 media_idade = 0
 maior_idade_homem = 0

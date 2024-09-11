@@ -1,4 +1,3 @@
-# Matriz 2.0
 matriz = [[0, 0, 0], [0, 0, 0], [0, 0, 0], []]
 soma_pares = soma_terceira_col = maior_valor = 0
 

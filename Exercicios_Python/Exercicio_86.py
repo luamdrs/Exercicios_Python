@@ -1,4 +1,3 @@
-# Matriz em Python
 matriz = [[0, 0, 0], [0, 0, 0], [0, 0, 0]]
 
 print('=-' * 15)

@@ -1,4 +1,3 @@
-# Gerador de PA | P. 2
 primeiro = int(input('Primeiro termo: '))
 razao = int(input('Razão da PA: '))
 

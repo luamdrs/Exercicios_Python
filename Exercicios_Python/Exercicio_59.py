@@ -1,4 +1,3 @@
-# Menu de Opções
 from time import sleep
 
 print('Olá! Seja bem-vindo ao nosso programa! :)')

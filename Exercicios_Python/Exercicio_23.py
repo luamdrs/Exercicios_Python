@@ -1,4 +1,3 @@
-# Separando dígitos de um número
 numero = int(input('Digite um número: '))
 unidade = numero // 1 % 10
 dezena = numero // 10 % 10

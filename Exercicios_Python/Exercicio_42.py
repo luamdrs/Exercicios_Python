@@ -1,4 +1,3 @@
-# Analisando Triângulos 2.0
 a = float(input('Primeiro segmento: '))
 b = float(input('Segundo segmento: '))
 c = float(input('Terceiro segmento: '))

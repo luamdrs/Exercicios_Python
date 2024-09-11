@@ -1,4 +1,3 @@
-# Dicionário de Python
 aluno = dict()
 aluno['Nome'] = str(input('Nome: '))
 aluno['Média'] = float(input(f'Média de {aluno["Nome"]}: '))

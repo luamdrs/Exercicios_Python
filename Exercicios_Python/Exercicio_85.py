@@ -1,4 +1,3 @@
-# Listas dentro de uma única lista com números pares e impares
 lista = [[], []]
 numero = 0
 

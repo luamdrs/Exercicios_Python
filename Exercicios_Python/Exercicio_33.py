@@ -1,4 +1,3 @@
-# Maior e Menor número
 print('=-' * 20)
 numero1 = int(input('Digite o primeiro número: '))
 numero2 = int(input('Digite o segundo número: '))

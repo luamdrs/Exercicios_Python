@@ -1,4 +1,3 @@
-# Conversor de bases numéricas
 numero = int(input('Digite um número inteiro: '))
 print('''Escolha uma das bases para conversão: 
 [ 1 ] Conversão para BINÁRIO

@@ -1,4 +1,3 @@
-# Tuplas com Países/Posições
 paises = ('Estados Unidos', 'China', 'Japão', 'Austrália', 'França', 'Holanda', 'Grã-Bretanha', 'Coréia do Sul', 'Itália', 'Alemanha', 'Nova Zelândia', 'Canadá', 'Uzbequistão', 'Hungria', 'Espanha', 'Suécia','Quênia', 'Noruega', 'Irlanda', 'Brasil')
 
 print('=-' * 20)

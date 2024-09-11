@@ -1,4 +1,3 @@
-# Valores em ordem decrescente em uma lista
 lista = list()
 cont = 0
 print('=-' * 20)

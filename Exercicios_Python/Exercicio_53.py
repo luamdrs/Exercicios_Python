@@ -1,5 +1,3 @@
-# Palíndromo ou não
-
 # Converte a frase em letras maiúsculas e sem espaços
 frase = str(input('Digite uma frase: ')).upper().strip() 
 palavras = frase.split()  # Gera uma lista com as palavras

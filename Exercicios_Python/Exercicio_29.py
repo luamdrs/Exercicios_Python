@@ -1,4 +1,3 @@
-# CONDICIONAL SIMPLES UTILIZANDO APENAS O IF
 velocidade = float(input('Qual é a velocidade do carro? '))
 if velocidade > 80:
     print('MULTADO! 🚩\nVocê ultrapassou o limite permitido que é de até 80km/h.')

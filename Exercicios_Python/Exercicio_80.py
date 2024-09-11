@@ -1,4 +1,3 @@
-# Lista ordenada sem repetições
 lista = list()
 
 for c in range(0, 5):

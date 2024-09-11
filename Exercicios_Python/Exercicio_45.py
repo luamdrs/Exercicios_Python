@@ -1,5 +1,3 @@
-# Jogo JOKENPO
-
 from random import randint
 from time import sleep
 

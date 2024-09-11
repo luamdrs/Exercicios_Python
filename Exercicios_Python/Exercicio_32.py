@@ -1,4 +1,3 @@
-# Programa para saber se o ano é Bissexto
 from datetime import date
 
 ano = int(input('Qual o ano que você deseja analisar? [Digite 0 para analisar o ano atual] '))

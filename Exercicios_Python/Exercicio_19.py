@@ -1,4 +1,3 @@
-# Sorteando um nome na lista 
 from random import choice
 
 aluno1 = str(input('Digite o nome do primeiro aluno: '))

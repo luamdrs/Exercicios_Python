@@ -1,4 +1,3 @@
-# Calculadora maior e menor de idade
 from datetime import date
 data_atual = date.today().year
 

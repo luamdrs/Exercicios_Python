@@ -1,5 +1,3 @@
-# Calculando Fatorial com while
-
 numero = int(input('Digite um número para calcular seu fatorial: '))
 print(f'Calculando {numero}! = ', end=' ')
 cont = numero  # O contador vai começar a partir do número que o usuário digitar
