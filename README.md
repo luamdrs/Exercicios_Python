@@ -215,7 +215,7 @@
 
 [_Exercício 106_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercício_106.py) - Interactive helping system in Python
 
-[_Exercício 107_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercício_107.py) - Exercitando módulos em Python
+[_Exercício 107_](https://github.com/luamdrs/Exercicios_Python/tree/main/Exercicios_Python/Exercicio_107.py) - Exercitando módulos em Python
 
 [_Exercício 108_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercício_108.py) - Formatando moedas em Python
 
