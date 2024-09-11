@@ -189,7 +189,7 @@
 
 [_Exercício 93_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_93.py) - Cadastro de Jogador de Futebol
 
-[_Exercício 94_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_94.py) -
+[_Exercício 94_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_94.py) - Unindo Dicionários e Listas
 
 [_Exercício 95_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_95.py) -
 
