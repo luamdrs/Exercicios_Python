@@ -205,4 +205,7 @@
 
 [_Exercício 101_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercício_101.py) - Funções para votação
 
+[_Exercício 102_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercício_102.py) - Função para Fatorial
+
+
 Curso ministrado pelo Professor **Gustavo Guanabara**
