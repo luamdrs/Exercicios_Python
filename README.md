@@ -208,4 +208,6 @@
 [_Exercício 102_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercício_102.py) - Função para Fatorial
 
 
+[_Exercício 103_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercício_103.py) - Ficha do Jogador
+
 Curso ministrado pelo Professor **Gustavo Guanabara**
