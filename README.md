@@ -227,9 +227,9 @@
 
 [_Exercício 112_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercício_112.py) - Entrada de dados monetários
 
-[_Exercício 113_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercício_113.py) - Funções aprofundadas em Python
+[_Exercício 113_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exerc%C3%ADcio_113.py) - Funções aprofundadas em Python
 
-[_Exercício 114_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercício_114.py) - O site está acessível?
+[_Exercício 114_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exerc%C3%ADcio_114.py) - O site está acessível?
 
 [_Exercício 115_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercício_115.py) - Criando um Menu (Cadastro de Pessoas) em Python - Projeto Final
 
