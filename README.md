@@ -191,7 +191,7 @@
 
 [_Exercício 94_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_94.py) - Unindo Dicionários e Listas
 
-[_Exercício 95_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_95.py) -
+[_Exercício 95_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_95.py) - Aprimorando os Dicionários
 
 [_Exercício 96_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercicio_96.py) -
 
