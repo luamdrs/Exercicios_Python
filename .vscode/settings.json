@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./Exercicios_Python/Exercicio_115.py/libr"
+    ]
+}
