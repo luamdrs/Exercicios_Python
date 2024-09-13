@@ -223,7 +223,7 @@
 
 [_Exercício 110_](https://github.com/luamdrs/Exercicios_Python/tree/main/Exercicios_Python/Exercicio_110.py) - Reduzindo ainda mais o programa
 
-[_Exercício 111_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercício_111.py) - Transformando módulos em pacotes
+[_Exercício 111_](https://github.com/luamdrs/Exercicios_Python/tree/main/Exercicios_Python/Exercicio_111.py) - Transformando módulos em pacotes
 
 [_Exercício 112_](https://github.com/luamdrs/Exercicios_Python/blob/main/Exercicios_Python/Exercício_112.py) - Entrada de dados monetários
 
